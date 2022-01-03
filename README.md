@@ -1,2 +1,2 @@
 # springProject
-This if for practicing
+This is for practicing
